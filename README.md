@@ -61,7 +61,12 @@ O notebook está organizado em etapas:
 - Permitir customização do layout dos PDFs.
 - Automatizar a seleção do arquivo de entrada.
 
+## Licença
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
 ---
 
+## Contato
 **Autor:** Gabriel Volpato  
-**Repositório:** [GabrielVolpatoP/Grade_Horario](https://github.com/GabrielVolpatoP/Grade_Horario)
+Para suporte ou dúvidas, entre em contato pelo email: volpatocursin@outlook.com 
+<img src="https://github.com/GabrielVolpatoP/GabrielVolpatoP/blob/main/imagens/Duck__icon.svg?raw=true" alt="Icon Usuario" align="right"  width="60">
