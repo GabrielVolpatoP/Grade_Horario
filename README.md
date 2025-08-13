@@ -1,10 +1,8 @@
 <header>
-<h1> Grade Horario
+<h1> GeradorRelatorio.ipynb
 <img src="https://img.shields.io/badge/READ%20ME-555555" alt="ReadMe" align="right"  width="q35">
 </h1>
 </header>
-
-# GeradorRelatorio.ipynb
 
 Este projeto tem como objetivo gerar relatórios em PDF a partir de grades de horários extraídas de arquivos PDF. Ele é especialmente útil para organizar e visualizar os horários de disciplinas de diferentes semestres e turnos (matutino e vespertino) de forma automatizada.
 
